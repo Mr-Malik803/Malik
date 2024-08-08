@@ -6,6 +6,6 @@
 rm -rf Mr-Malik803
 git clone https://github.com/Mr-Malik803/Malik
 cd Malik
-python MR_MALIK.py
+python Malik.py
 
 # USE IN TERMUX
